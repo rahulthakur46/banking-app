@@ -3,7 +3,7 @@
 A simple Banking Management System built using Python and Streamlit.
 
 ## 🚀 Live App
-(Add your live app link here)
+(https://banking-app-atpdqyespnzowrfjqlmztq.streamlit.app/)
 
 ## 📌 Features
 - Create Account
